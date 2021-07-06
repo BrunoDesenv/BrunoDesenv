@@ -19,3 +19,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoDesenv&show_icons=true)  
 
+![Snake animation](https://github.com/BrunoDesenv/BrunoDesenv/blob/output/github-contribution-grid-snake.svg)
+
