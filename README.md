@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Get the IETLS / Create my own APP
 - 🔭 I’m currently working on BairesDev
-- ⚡ Fun fact: I love to run watch series / movies
+- ⚡ Fun fact: I love to run, watch series / movies
 
 #### Connect with me:
 
