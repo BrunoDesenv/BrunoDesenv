@@ -1,7 +1,7 @@
 ### Hi there, I'm Bruno 👋
 #### I'm a Husband, Developer, and Traveler!!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Get the IETLS / Create my own APP
+- 🥅 2022 Goals: Get the IETLS / Create my own APP
 - 🔭 I’m currently working on BairesDev
 - ⚡ Fun fact: I love to run, watch series / movies
 
