@@ -1,8 +1,6 @@
 ### Hi there, I'm Bruno 👋
 #### I'm a Husband, Developer, and Traveler!!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: GitHub, AZ-204, and Angular Certifications
-- 🔭 I’m currently working on BairesDev
 - ⚡ Fun fact: I love to run, watch series / movies
 
 #### Connect with me:
